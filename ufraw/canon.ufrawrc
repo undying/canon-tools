@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UFRaw Version='7'>
+<WindowMaximized>1</WindowMaximized>
+  <WB>Camera WB</WB>
+  <WBFineTuning>0</WBFineTuning>
+  <Temperature>4278</Temperature>
+  <Green>1.078</Green>
+  <ChannelMultipliers>1.863462 1.000000 1.590385 1.000000</ChannelMultipliers>
+<ExposureNorm>27647</ExposureNorm>
+<RestoreDetails>clip</RestoreDetails>
+<ClipHighlights>film</ClipHighlights>
+<OutputType>2</OutputType>
+<ProgressiveJPEG>1</ProgressiveJPEG>
+<Compression>100</Compression>
+<LosslessCompression>1</LosslessCompression>
+<BaseLinearCurve Current='yes'>
+</BaseLinearCurve>
+<LinearCurve Current='yes'>
+</LinearCurve>
+<MatrixInputProfile Current='yes'>Color matrix
+	<Gamma>0.400000</Gamma>
+</MatrixInputProfile>
+<sRGBOutputProfile Current='yes'>sRGB
+	<BitDepth>16</BitDepth>
+</sRGBOutputProfile>
+<SystemDisplayProfile Current='yes'>System default
+</SystemDisplayProfile>
+<Make>Canon</Make>
+<Model>EOS 450D</Model>
+</UFRaw>
