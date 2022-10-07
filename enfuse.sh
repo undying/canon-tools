@@ -20,9 +20,9 @@ enfuse \
   --output="${prefix}.tif" \
   --gray-projector=l-star \
   --contrast-edge-scale=0.3 \
-  --exposure-weight=1 \
-  --saturation-weight=0.2 \
-  --contrast-weight=0 \
+  --exposure-weight=0.7 \
+  --contrast-weight=0.9 \
+  --saturation-weight=0.5 \
   --soft-mask \
   ${@}
 
